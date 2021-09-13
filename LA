@@ -1,4 +1,9 @@
-#EXTINF:-1 tvg-id="TV Guia_NatGeo" tvg-name="NatGeo" tvg-logo="natgeo.png",NatGeo 
-http://201.161.59.3/natgeo.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8 
-#EXTINF:-1 tvg-id="TV Guia_History Channel" tvg-name="History_Channel" tvg-logo="history-hd.png",History Channel 
-http://201.161.59.7/history.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+EXTM3U
+#EXTINF:-1,WoW: Gazi Tv
+https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1,WoW: Maasranga
+https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+#EXTINF:-1,Asian TV
+https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+#EXTINF:-1,ATN Bangla
+https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
