@@ -1,15 +1,98 @@
-#EXTM3U $ExtFilter="Local"               
+#EXTM3U
+
+#EXTINF:-1,**PANAMA
+**
+http:?
+
+#EXTINF:-1,SER-TV
+rtmp://216.224.177.132/live/sertv
+
+#EXTINF:-1,RPCTV
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+
+#EXTINF:-1,Telemetro
+ http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
+
+#EXTINF:-1,TVN 2
+http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish3/kLive/smil:0_6gox09ym_all.smil/32/chunklist.m3u8
+
+
+#EXTINF:-1,**ESPANA**
+http:?
+
+#EXTINF:-1,TVE1
+http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1,TVE2
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1,Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,A•3 Internacional
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+
+#EXTINF:-1, Castilla-LaMancha
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
+
+#EXTINF:-1,La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:-1,MEGA
+http://212.121.224.243:9981/stream/channelid/1769302701?ticket=AC81844BB567E97A5877494DF652DEB73D8E1A46&profile=pass
+
+#EXTINF:-1,TVE24H
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8
+
+#EXTINF:-1,Canal Asturias
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+ 
+#EXTINF:-1 tvg-logo="CANAL EXTREMADURA.png",Canal Extremadura
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="ANDALUCIA.png",Canal Andalucia
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+
+#EXTINF:-1, Telecinco
+http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-p.m3u8
+
+#EXTINF:-1,TDP
+http://iphonelive.rtve.es/TDP_LV3_IPH/TDP_LV3_IPH.m3u8
+
+
+EXTINF:-1,**MEXICO**
+ http:?
+
+#EXTINF:-1,Azteca 7
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+
+#EXTINF:-1,Canal de las Estrellas
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+
+
+#EXTINF:-1,**COSTA RICA**
+http:?
+
 #EXTINF:-1, 11 Repretel
 http://slrp.sambavideos.sambatech.com/liveevent/repretelcanal11_d3adab9cf37b5e4ed6f823e031229710/livestream3/chunklist.m3u8
+
 #EXTINF:-1, 6 Repretel
 http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
+
+
+#EXTINF:-1, ExtraTv 42
+http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8
+
+#EXTINF:-1,
+Sinart13
+http://stream01.cyberfuel.com/SinartCanal13/livestream/playlist.m3u8
+
 #EXTINF:-1, Teletica 7
 http://k3.usastreams.com:1935/cana7/cana7/playlist.m3u8
 
-#EXTM3U $ExtFilter="Adult"               
-#EXTINF:-1,Tushy
-http://5f.niobzca.cf:8080/live/Joao/123/99512.m3u8
-#EXTINF:-1,SUPER ONE FHD
-http://5f.niobzca.cf:8080/live/Joao/123/91630.m3u8
-#EXTINF:-1,Mature 1
-http://5f.niobzca.cf:8080/live/Joao/123/96776.m3u8
+#EXTINF:-1, XPERTS TV 33
+http://k3.usastreams.com:1935/tv33/tv33/playlist.m3u8
+
+
+#EXTINF:-1,**Canales Extra**
+http:?
