@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="DEPORTES",TVN Chile
+#EXTINF:-1,TVN Chile
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1,FR: TRACE LATINA
 http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/208205.m3u8
