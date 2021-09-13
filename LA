@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,Disney XD
-http://iptv.latino-webtv.com/stalker.php?ch=DisneyXDSD&id=499
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
