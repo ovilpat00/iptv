@@ -95,5 +95,9 @@ http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/103086.m3u8
 http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/86443.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="M6 Music HD" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Music",M6 Music HD
 http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/65676.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Sport",Fox Sports HD
-http://iptv.latino-webtv.com/fox-sports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Sport",Fox Sports
+http://144.217.70.189:8000/live/iptvchile/demolibre/69.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Sport",Fox Sports 2
+http://144.217.70.189:8000/live/iptvchile/demolibre/3.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Sport",Fox Sports 3
+http://144.217.70.189:8000/live/iptvchile/demolibre/70.ts
