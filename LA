@@ -87,3 +87,5 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6270/index.m3u8
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6271/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Emmanuelle HD" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Emmanuelle HD
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6272/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dusk HD" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Dusk HD
+http://star-flix.net:8080/jhonnylive/t9EUWKdAhh/17585
