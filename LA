@@ -90,7 +90,7 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6272/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dusk HD" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Dusk HD
 http://star-flix.net:8080/jhonnylive/t9EUWKdAhh/17585
 #EXTINF:-1 tvg-id="" tvg-name="Trace Tropical" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Music",Trace Tropical
-http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/103086.m3u8
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="M6 Music HD" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Music",M6 Music HD
 http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/65676.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Sport",Fox Sports
