@@ -9,7 +9,7 @@ http://live.adultiptv.net/anal.m3u8
 http://live.adultiptv.net/compilation.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gangbang" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Gangbang
 http://live.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARough" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Rough
+#EXTINF:-1 tvg-id="" tvg-name="Rough" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Rough
 http://live.adultiptv.net/rough.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Russian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Russian
 http://live.adultiptv.net/russian.m3u8
@@ -35,5 +35,5 @@ http://live.adultiptv.net/milf.m3u8
 http://live.adultiptv.net/bigdick.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Big Tits" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Tits
 http://live.adultiptv.net/bigtits.m3u8
-EXTINF:-1,FOX SPORTS 2 
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 2" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Sport",AdultIPTV.net Brunette
 http://181.78.8.90:16123/play/ch20 
