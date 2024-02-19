@@ -58,5 +58,7 @@ http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7323/index.m3u8
 http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7323/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Teletica Canal 7" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teletica.png/120px-Teletica.png" group-title="Entretenimiento",AdultIPTV.net Big Ass
 http://190.149.66.90:4000/play/a01g/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="Entretenimiento",AdultIPTV.net Big Ass
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="Sport",AdultIPTV.net Big Ass
 http://138.59.177.34:8000/play/a05i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="Entretenimiento",AdultIPTV.net Big Ass
+http://138.59.177.34:8000/play/a01m/index.m3u8
