@@ -70,3 +70,5 @@ http://138.59.177.34:8000/play/a01i/index.m3u8
 http://190.90.154.73:8080/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mix Music Channel" tvg-language="English" tvg-logo="https://supertrendy.net/wp-content/uploads/2023/09/mix-pngeee.png" group-title="Entretenimiento",AdultIPTV.net Brunette
 https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Repretel Canal 6" tvg-language="English" tvg-logo="https://www.repretel.com/wp-content/uploads/2023/08/signal_canal_6-2.png" group-title="Entretenimiento",AdultIPTV.net Brunette
+https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/Canal6CR/Canal6CR1/chunks.m3u8
