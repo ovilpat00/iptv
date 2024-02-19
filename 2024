@@ -68,3 +68,5 @@ http://138.59.177.34:8000/play/a00u/index.m3u8
 http://138.59.177.34:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport 2 Plus" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="Sport",AdultIPTV.net Brunette
 http://190.90.154.73:8080/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mix Music Channel" tvg-language="English" tvg-logo="https://supertrendy.net/wp-content/uploads/2023/09/mix-pngeee.png" group-title="Entretenimiento",AdultIPTV.net Brunette
+https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
