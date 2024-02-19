@@ -64,3 +64,5 @@ http://138.59.177.34:8000/play/a05i/index.m3u8
 http://138.59.177.34:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/150px-Fashion_TV_logo.svg.png" group-title="Entretenimiento",AdultIPTV.net Big Ass
 http://138.59.177.34:8000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="Sport",AdultIPTV.net Big Ass
+http://138.59.177.34:8000/play/a01i/index.m3u8
