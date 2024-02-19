@@ -62,3 +62,5 @@ http://190.149.66.90:4000/play/a01g/index.m3u8
 http://138.59.177.34:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="Entretenimiento",AdultIPTV.net Big Ass
 http://138.59.177.34:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/150px-Fashion_TV_logo.svg.png" group-title="Entretenimiento",AdultIPTV.net Big Ass
+http://138.59.177.34:8000/play/a00u/index.m3u8
