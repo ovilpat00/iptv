@@ -86,8 +86,8 @@ http://95.169.222.98:8800/udp/239.100.60.127:8888
 #EXTINF:-1 tvg-id="" tvg-name="MyCamTV Mature" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="adultiptv.net",AdultIPTV.net Threesome
 http://videocdn2.quweikm.com:8091/20180801/WKT8JYE391/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="O-la-la" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Threesome
-http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/27993/hls/pl.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O-la-la" tvg-language="English" tvg-logo="http://list.8v8i8p.com/img/channel_icons/27452.png" group-title="XXX",AdultIPTV.net Threesome
+http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/27452/hls/pl.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold" tvg-language="English" tvg-logo="http://list.8v8i8p.com/img/channel_icons/95026.png" group-title="XXX",AdultIPTV.net Threesome
 http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/95026/hls/pl.m3u8
