@@ -41,9 +41,6 @@ http://live.adultiptv.net/brunette.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineMan ExExEx" tvg-language="English" tvg-logo="http://list.8v8i8p.com/img/channel_icons/61194.png" group-title="XXX",AdultIPTV.net Blonde
 http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/61194/hls/pl.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CineMan ExExEx2" tvg-language="English" tvg-logo="http://list.8v8i8p.com/img/channel_icons/61194.png" group-title="XXX",AdultIPTV.net Blonde
-http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/29047/hls/pl.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Compilation" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="adultiptv.net",AdultIPTV.net Compilation
 http://live.adultiptv.net/compilation.m3u8
 
