@@ -136,7 +136,7 @@ http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/43882/hls/pl.m3u8
 http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/26472/hls/pl.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport 2" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="Sport",AdultIPTV.net Brunette
-http://181.78.8.90:16123/play/ch20 
+http://172.16.0.5:8000/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",AdultIPTV.net Big Ass
 http://45.5.117.182:8000/play/a0hr/index.m3u8
@@ -162,21 +162,30 @@ http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7323/index.m3u8
 http://138.59.177.34:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="Entretenimiento",AdultIPTV.net Big Ass
 http://138.59.177.34:8000/play/a01m/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="Entretenimiento",AdultIPTV.net Big Ass
 http://138.59.177.34:8000/play/a00u/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="Sport",AdultIPTV.net Big Ass
 http://138.59.177.34:8000/play/a01i/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport 2 Plus" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="Sport",AdultIPTV.net Brunette
 http://190.90.154.73:8080/play/a02t/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Mix Music Channel" tvg-language="English" tvg-logo="https://supertrendy.net/wp-content/uploads/2023/09/mix-pngeee.png" group-title="Entretenimiento",AdultIPTV.net Brunette
 https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-language="English" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAvCAMAAACBi/kPAAAAwFBMVEX////DEBDrEBCREBDqAACMAADKoqL2ra2PCwvQr6/2r6/rHBzrCwvDDAzAEBDGEBCwtLjLzdD4+Pm+wcQAAB8AABTj5Obx8vIAHzOHAADFHByboKWFipBZY20AAAB+hYw/TFjZ292mq69NWWMiNkUzQ1AYL0AAGC+TGhqeQkKuamrFmJjgysr5yMj0lpbwZ2ftPz+2e3vt4eH73t7xdXX98vL7v7+rAADVAADREBCyEBCkEBDVHR2jTk6RlZtzeoJD+R3EAAACA0lEQVRIie3VbXeaMBgG4FvAaX0FAgQHaUAQ165bXbtuVjf5//9qT0QUd9xq+Liz+wPEnFxJIIdH4Jh3XVPlw939xwc08unz42poqFgDXMoBmv0u5ctT1fn81aKMjAr2/gorPLt3gZdHyzJOuQJSurOHb2fsWmia39cjow3cTCevbeBm2un8Jq+CW3Ikh9pw7yi6cHNwZ5u95hzrBTsTPVgvSHl9G866dY5PqDKyjrkMn26O2TbhcFCn93wRNrIZn9z4x1ujG5m0heMmfP8fnqX1cbSG2yYcasB+a7g5fVZrLXj6HjsjPVgvOVlrQnNSwamhC6vNUuHQhfv6qKqjNjTpMFVV1YfdrWG1gP3ZHX9Z0T+jHqRKd6MaPSptOnD286ZuDlaWBvzHEsldLJ00ltKGdFVHLEuextTkMuU7wLEROcCOu2UpqQFHZDZgszC2XTtnjOM2pe5EMgbmkSg9J/BdzBMIz0XBuM9sz4bjM4duQMiIJ2p1fw9VHyuWCJaFE5CYZxB5iZwg/cghaM4oq2HohQeYhX4ElpX0DPkR2kW6IMjBQhQ0M93+sGLCPQ8hQSiY2WleQTtHEtH4BQ1aKrjggQufBZz6gwBsAeZg6eDW5plENof0CAZpOEcUcndB24WgN8VElu0g6AopsiR1SrUDkdIMRelCMjWMCyGogV1RxPgFZls07R4fHpUAAAAASUVORK5CYII=" group-title="Entretenimiento",AdultIPTV.net Brunette
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Univision" tvg-language="English" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIADMAOAMBEQACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAAAgUHAwQIBgH/xAAyEAACAQMDAgQEAwkAAAAAAAABAgMABBEFITESEwZBUWEicZGhBxSBFRYjMjM0UnKx/8QAGwEBAAIDAQEAAAAAAAAAAAAAAAEFAwQGBwL/xAApEQACAQMDAgUFAQAAAAAAAAAAAQIDBREEITESQTJxkcHRFBVRoeEG/9oADAMBAAIRAxEAPwC8aA+EgDJ2AoDHb3EFynXbTRyp/lG4Yfapaa5JcXHlGpPremW8zwz3kaSIcMpzsa+epGvLU0ovDluEWt6VK4SPUbYseB3QDTKC1NGTwpr1JCpM4UAUBiuv7aX/AEP/ACpRK5OfNJvLnT3iuLGeS3lUDDRnH19R7Gr3pjNYksnWOEai6ZrKPVTXsmon85OFEswDOF4zjyrn9RBQqyiux5xdKapaupCPCZF3nBrEUtbgvCL+mnyFZzs1wNQkKASdS8MiryykD6UJXJzhFJ2x25FIdPhYehFZ4XeK8UGd1DS53jI3R4otrZBbtbTs0YAJHTg7fOrOlZKuugtTCaSnvh5yec3nRy+vq7rn2Rrvrz300cFnaHuSuEXrbzJwNh8/Wsr/AM9GkuqtV2X4Xu/gq/tvV4peh0Wg6UUHyGKoC/Q1AFAFAVZ498B3Zv5tV0KHvRzEvPbL/Mr+bKPMHnHOeM521K1F5zE6O23WMYqlWeMcP5KzudG1R75kGmXxkbHwC1fq9OMV3Vl1tONtgpNJxyt/Pb9FJeYp62c4vKlh7b9v4WT+HH4fXVrew6vrsXZMJ6re2Ygt1eTN6Y5A5zzjFVlyuSqp06b82aMId2WtVGZgoDW1G5az0+6ukTuNDC8gTOOogE4+1AQ7+Inkn7FlDDM7mFI37vwdTq7HJAPAT9cigEi8TSyRPJ+TGIYFmmAkyVAlaN8bb46CR6+1AN+8U7xh4bJWEttNcQAy9JdVdVTORt1Bs/QUBjPikiFWSGFy0cZDdwqgdpTHhiVyACNzj2oAbxLctGVgs4JJ4knkl/jntlYioPQ3TvnqHkMb0B6K2mW4t4p0BCyIHAPoRmgPswdoXWJgshUhWIyAfI0BEppl5EAtvJaRIHDhewpwcbkYAwff58cABo9Pv0G01oCQQ5W3ADAknGPTf15J/UAbTruRUSWS2KhSjEwqcocYUDGANtxvn28gF/Zl4EZFltAhj7fT+XXHT6cbDnbf77AO+nXQ7awPapGkRjKCAcEDIBxsMjPBHtQEpEvRGi4A6VAwOKAagCgCgCgCgCgCgP/Z" group-title="Entretenimiento",AdultIPTV.net Brunette
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="CNNE" tvg-language="English" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADcAAAA4CAMAAABuU5ChAAAAbFBMVEXMAAD////LAAD98vLUJyfihobQAAD66OjrmJj++/vfaGjYSEj32Nj00tLZUVH54ODxubnSGBjfYGDWPDztqKjecnLgb2/uvLzssbHxyMjcWFjomprnoKDYQkLUMDDcT0/if3/mkJDTICDRDw/mWHvcAAAB/UlEQVRIie2U25arIAyGCVgtyql4BKfWw/u/4wS0s9vRWbOv9toX/jeyIh8JCQkhp06d+j9Eg7bFi+1rRf6Y36hbWRRFgou7mrcddFYlieu5KJb7PdlRpGmlEELXJO2EduNqbaQWXYkgVULOztXfPNLSZRA1kSp82BSs92g0A4ZoAZKMXd45mmsAcbFK+WTOoCqvIDxu7oAp/NWTwPEdRz2ea9O8Mqa1Dwa3j9JAlRKqoSr6GrSnRxydJbCb5zHOi2KQ6tZyVlPkrg0rOqiWQ+6Dw73BO2VSyiZyzPbhWsjlYPKMNQccHRz0DwBZxAJGDpzVMK5cln+ASQ64OgPlQC9rzVeOjVeQSeSgtQJqv+d6dMVgK83GoUMJ48qxsedy5DuuAuMxie8cny5Ms8jFM+Te3wHHNRfWIYIc04BnwF/FySsDfcMiJ69ce3fAHeSFI5R5s3JlC33OfqvDY+VIB90j3k+SOuOq+6Xu4X0HjmIB/TVyt7SFLtnl8/2dBUUOHcob7wNHlYbHuO+Hl3cdVC2MTZQOodpjHThMuU7dwH7uoygDLMcumji3SoALEQlsrgm0/bFvV7UpGlMTQs9CgULOQwcv5JuecyJKdkM4ly6V1HLaiuVwYgwHg2mbS0HDNrgoLf1zK11UQY7m2TYHv4bh0/SyPqROnTr1b/UJq2cjfpeutjEAAAAASUVORK5CYII=" group-title="Entretenimiento",AdultIPTV.net Big Ass
 http://181.78.105.146:2000/play/a00x/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="DJING HD" tvg-language="English" tvg-logo="https://djing.com/newimages/content/c01.jpg" group-title="Entretenimiento",AdultIPTV.net Brunette
 http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="V2BEAT" tvg-language="English" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="Entretenimiento",AdultIPTV.net Big Ass
 https://abr.de1se01.v2beat.live/playlist.m3u8
