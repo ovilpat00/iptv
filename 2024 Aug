@@ -63,3 +63,7 @@ http://live.adultiptv.net/rough.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Threesome" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="adultiptv.net",Threesome
 http://live.adultiptv.net/threesome.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Foxsports 2" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Sport",Foxsport 2
+http://tilinki.com:25461/caqo5939/2g7xS/24
+
