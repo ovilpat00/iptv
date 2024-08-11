@@ -105,3 +105,6 @@ http://home-playtv.com:8080/powertv/W8LULsPWL9by/158454
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Sport",FOX SPORTS 2
 http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=86153&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 LAM" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Sport",FOX SPORTS 2 LAM
+http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=86154&extension=ts
