@@ -104,4 +104,4 @@ http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/158454
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Sport",FOX SPORTS 2
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE02.m3u8
+http://31.220.41.88:8081/live/nl-foxsports2.stream/playlist.m3u8
