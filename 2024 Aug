@@ -34,6 +34,9 @@ http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/95026/hls/pl.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Penthouse Quickies" tvg-language="English" tvg-logo="http://list.8v8i8p.com/img/channel_icons/47354.png" group-title="XXX",Penthouse Quickies
 http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/47354/hls/pl.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Pinko" tvg-language="English" tvg-logo="http://list.8v8i8p.com/img/channel_icons/47354.png" group-title="XXX",Pinko
+http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10109.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Private TV HD" tvg-language="English" tvg-logo="http://list.8v8i8p.com/img/channel_icons/54375.png" group-title="XXX",Private HD
 http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/54375/hls/pl.m3u8
 
