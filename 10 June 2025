@@ -1,2 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="Teletica" tvg-language="English" tvg-logo="http://list.8v8i8p.com/img/channel_icons/61194.png" group-title="News",Teletica
-https://cdn01.teletica.com/TeleticaLiveStream/Stream/TeleticaLiveStream/Stream7live1/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="Teletica7.cr" tvg-name="Teletica 7" group-title="Costa Rica",Teletica 7 (CR)
+:contentReference[oaicite:4]{index=4}
+#EXTVLCOPT:http-referrer=https://www.teletica.com/vivo?canal=teletica-7
