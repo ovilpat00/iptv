@@ -1,8 +1,11 @@
-#EXTINF:-1 tvg-id="" tvg-name="Repretel Canal 11" tvg-language="English" tvg-logo="http://list.8v8i8p.com/img/channel_icons/61194.png" group-title="News",Repretel Canal 11
-https://d2n1dt6uwqq83r.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4" tvg-language="English" tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES4-150x84.png" group-title="News",Canal 4
+https://d35xpyc30huab3.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6" tvg-language="English" tvg-logo="http://list.8v8i8p.com/img/channel_icons/61194.png" group-title="News",Canal 6
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6" tvg-language="English" tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES6-150x84.png" group-title="News",Canal 6
 https://d1vr8yxz55pucr.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Repretel Canal 11" tvg-language="English" tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES11-150x84.png" group-title="News",Repretel Canal 11
+https://d2n1dt6uwqq83r.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="V2BEAT" tvg-language="English" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="Music",V2BEAT
 http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/14164/index.m3u8
