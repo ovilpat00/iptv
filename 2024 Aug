@@ -10,7 +10,7 @@ https://d1vr8yxz55pucr.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 7" tvg-language="English" tvg-logo="https://static3.teletica.com/Files/Sizes/2024/4/5/teletica7_717404571_380x260.png" group-title="CR",Canal 7
 https://d2n1dt6uwqq83r.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 8" tvg-language="English" tvg-logo="https://www.telediario.cr/bundles/appcamusassets/images/telediaio-logo.svg" group-title="CR",Canal 8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 8" tvg-language="English" tvg-logo="https://www.telediario.cr/bundles/appcamusassets/images/telediaio-logo.png" group-title="CR",Canal 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Repretel Canal 11" tvg-language="English" tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES11-150x84.png" group-title="CR",Repretel Canal 11
