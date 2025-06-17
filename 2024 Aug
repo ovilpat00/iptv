@@ -13,6 +13,9 @@ https://d2n1dt6uwqq83r.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Repretel Canal 11" tvg-language="English" tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES11-150x84.png" group-title="News",Repretel Canal 11
 https://d2n1dt6uwqq83r.cloudfront.net/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="VM Latino" tvg-language="English" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="News",VM Latino
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="V2BEAT" tvg-language="English" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="Music",V2BEAT
 http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/14164/index.m3u8
 
