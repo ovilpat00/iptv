@@ -23,7 +23,7 @@ https://d2axu5ozwr5gk0.cloudfront.net/index.m3u8
 http://181.78.24.67:8010/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Univision" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="CR",Univision
-https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
+http://181.78.105.146:2000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/1200px-CNN_Logo_%282014%29.svg.png" group-title="CR",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
