@@ -28,6 +28,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 #EXTINF:-1 tvg-id="" tvg-name="Nicoya TV" tvg-language="English" tvg-logo="https://www.pngkey.com/png/detail/816-8164472_nicoya-tv.png" group-title="CR",Nicoya TV
 https://lstv.duckdns.org:449/hls/rtchirripo.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Trivision" tvg-language="English" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMrwChdTCXl0diodYJKkHgl9WMz4a1Q1VfQdthCUT5m-lUM2serLawRAcb-j8XcQ6m7_5IMivlEZDlhwZ5Fxi0ygxOWAK_egr4luVKKnaMaL-XBpHDS4B_x2WjiwoxhHZr82XwMSmUfSlztHIlHcHpSyMOFo3w8JyfK0BAa8j7ftjO83ttgjrJ1oGJJbg/w1200-h630-p-k-no-nu/wpb6c6ca08_05_06.jpg" group-title="CR",Trivision
+https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Urbano TV" tvg-language="English" tvg-logo="https://www.urban.tv.br/canais/logo-urbantv.jpg" group-title="CR",Urbano TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 
