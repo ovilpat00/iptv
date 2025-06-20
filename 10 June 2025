@@ -23,7 +23,7 @@ https://d2axu5ozwr5gk0.cloudfront.net/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Trivision 36" tvg-language="English" tvg-logo="https://www.urban.tv.br/canais/logo-urbantv.jpg" group-title="CR",Trivision 36
-https://5fc584f3f19c9.streamlock.net:443/genteopa/videogenteopa/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Urbano TV" tvg-language="English" tvg-logo="https://www.urban.tv.br/canais/logo-urbantv.jpg" group-title="CR",Urbano TV
 blob:https://tv.garden/6b57a76e-5f68-4955-9d00-acc1299e0f16
