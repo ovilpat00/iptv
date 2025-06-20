@@ -34,7 +34,7 @@ https://lstv.duckdns.org:449/hls/rtchirripo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="CR",Telemundo
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Trivision" tvg-language="English" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMrwChdTCXl0diodYJKkHgl9WMz4a1Q1VfQdthCUT5m-lUM2serLawRAcb-j8XcQ6m7_5IMivlEZDlhwZ5Fxi0ygxOWAK_egr4luVKKnaMaL-XBpHDS4B_x2WjiwoxhHZr82XwMSmUfSlztHIlHcHpSyMOFo3w8JyfK0BAa8j7ftjO83ttgjrJ1oGJJbg/w1200-h630-p-k-no-nu/wpb6c6ca08_05_06.jpg" group-title="CR",Trivision
+#EXTINF:-1 tvg-id="" tvg-name="TicaVision" tvg-language="English" tvg-logo="https://ticavisiontv.com/wp-content/uploads/2024/09/cropped-WhatsApp-Image-2024-09-17-at-10.25.28-AM-2.jpeg" group-title="CR",Trivision
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Urbano TV" tvg-language="English" tvg-logo="https://www.urban.tv.br/canais/logo-urbantv.jpg" group-title="Music",Urbano TV
