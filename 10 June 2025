@@ -22,8 +22,11 @@ https://d2axu5ozwr5gk0.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/1200px-CNN_Logo_%282014%29.svg.png" group-title="CR",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="VM Latino" tvg-language="English" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="CR",VM Latino
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trivision 36" tvg-language="English" tvg-logo="https://www.urban.tv.br/canais/logo-urbantv.jpg" group-title="CR",Trivision 36
+https://5fc584f3f19c9.streamlock.net:443/genteopa/videogenteopa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Urbano TV" tvg-language="English" tvg-logo="https://www.urban.tv.br/canais/logo-urbantv.jpg" group-title="CR",Urbano TV
 https://5fc584f3f19c9.streamlock.net:443/genteopa/videogenteopa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="VM Latino" tvg-language="English" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="CR",VM Latino
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
