@@ -31,6 +31,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 #EXTINF:-1 tvg-id="" tvg-name="Nicoya TV" tvg-language="English" tvg-logo="https://www.pngkey.com/png/detail/816-8164472_nicoya-tv.png" group-title="CR",Nicoya TV
 https://lstv.duckdns.org:449/hls/rtchirripo.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Nicoya TV" tvg-language="English" tvg-logo="https://www.pngkey.com/png/detail/816-8164472_nicoya-tv.png" group-title="CR",Nicoya TV
+https://world.lls.pbs.org/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="CR",Telemundo
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
