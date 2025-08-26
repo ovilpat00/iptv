@@ -37,9 +37,6 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TicaVision" tvg-language="English" tvg-logo="https://ticavisiontv.com/wp-content/uploads/2024/09/cropped-WhatsApp-Image-2024-09-17-at-10.25.28-AM-2.jpeg" group-title="CR",TicaVision
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Univision" tvg-language="English" tvg-logo="https://www.pngkey.com/png/detail/816-8164472_nicoya-tv.png" group-title="CR",Univision
-https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Urbano TV" tvg-language="English" tvg-logo="https://www.urban.tv.br/canais/logo-urbantv.jpg" group-title="Music",Urbano TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 
@@ -51,6 +48,9 @@ https://fl3.moveonjoy.com/BET_Jams/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Def Jam" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Def_Jam_Recordings.svg/1200px-Def_Jam_Recordings.svg.png" group-title="Music",Def Jam
 https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tropical Music TV" tvg-language="English" tvg-logo="https://www.pngkey.com/png/detail/816-8164472_nicoya-tv.png" group-title="CR",Tropical Music TV
+https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vevo Latino" tvg-language="English" tvg-logo="https://fangtasiamusic.com/application/files/3315/7533/8674/Service_VEVO2.jpg" group-title="Music",Vevo Latino
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
