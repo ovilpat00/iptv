@@ -49,9 +49,6 @@ https://fl3.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Def Jam" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Def_Jam_Recordings.svg/1200px-Def_Jam_Recordings.svg.png" group-title="Music",Def Jam
 https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Tropical Music TV" tvg-language="English" tvg-logo="https://image.roku.com/developer_channels/prod/6c6b66ab1d26a90933bfadf97054b95f95721fcd1d475d300b0fe00e67c20e23.png" group-title="Music",Tropical Music TV
-https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Vevo Latino" tvg-language="English" tvg-logo="https://fangtasiamusic.com/application/files/3315/7533/8674/Service_VEVO2.jpg" group-title="Music",Vevo Latino
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 
