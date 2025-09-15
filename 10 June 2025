@@ -13,9 +13,6 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Repretel Canal 11" tvg-language="English" tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES11-150x84.png" group-title="CR",Repretel Canal 11
 https://d2n1dt6uwqq83r.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Enlace" tvg-language="English" tvg-logo="https://www.enlace.org/wp-content/uploads/2025/02/1740573731_maxresdefault-260x146.jpg" group-title="CR",Enlace
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="CR",France 24
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 
